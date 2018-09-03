@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_restapi",
+  "version": "1.0.0",
+  "description": "A simple nodejs restapi application deployed on cloud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray Belmo",
+  "license": "ISC"
+}
